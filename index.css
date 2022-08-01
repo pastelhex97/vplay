@@ -762,7 +762,7 @@ pre {
 /*Desktop*/
 @media (min-width: 1200px) {
   section#top {
-    background: url("https://pastelhex.online/vplay/img/purplephone.png") no-repeat center, linear-gradient(to bottom right, rgba(129,74,216,.5),rgba(129,74,216,.5));
+    background: url("https://pastelhex.net/vplay/img/purplephone.png") no-repeat center, linear-gradient(to bottom right, rgba(129,74,216,.5),rgba(129,74,216,.5));
   }
 
   section#contact {
